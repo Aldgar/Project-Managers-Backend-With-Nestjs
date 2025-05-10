@@ -18,4 +18,3 @@ import { ChallengesModule } from './challenges/challenges.module';
   ],
 })
 export class AppModule {}
-
